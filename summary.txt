@@ -1,0 +1,23 @@
+Summary for /www/javadecompilers/app/public/data/27.04.16/5d9bfb68a599b8a79f288041900b3da3/vstup.info.jar
+Decompiled with CFR 0_114
+
+
+org.ibex.nestedvm.ClassFileCompiler
+----------------------------
+
+emitText(int java.io.DataInputStream int )
+  Unable to fully structure code
+
+
+org.ibex.nestedvm.JavaSourceCompiler
+----------------------------
+
+emitText(int java.io.DataInputStream int )
+  Unable to fully structure code
+
+
+org.ibex.nestedvm.UnixRuntime
+----------------------------
+
+getdents(byte[] int int )
+  Unable to fully structure code
